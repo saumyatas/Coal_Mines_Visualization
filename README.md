@@ -1,5 +1,5 @@
 # Coal Mines Visualization
-A visualization tool created to help analyze the coal mining area and predict the period of mining operation.
+A visualization tool created on Google Earth engine (GEE) to help analyze the coal mining area and predict the period of mining operation.
 
 
 ## Installing
