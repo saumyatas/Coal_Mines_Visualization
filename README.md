@@ -4,7 +4,7 @@ A visualization tool created to help analyze the coal mining area and predict th
 
 ## Installing
 ```bash
-git clone 
+git clone https://github.com/saumyatas/Coal_Mines_Visualization.git
 ```
 
 ## Visulization Plots
