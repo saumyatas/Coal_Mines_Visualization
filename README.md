@@ -40,5 +40,8 @@ The expansion of mining area and change in operation can be visualized using Lan
 [![kaggle](https://img.shields.io/badge/kaggle-31C3FF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/saumyatas1202)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@srivastava.saumyata)
 
+## Credit
+- The code in python is built on geemap, a python package for interactive mapping with GEE, created by [Qiusheng Wu](https://github.com/giswqs)
+
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
